@@ -1,1 +1,1 @@
-# Project of Data Analyst Nanodegree of Udacity
+Project of Data Analyst Nanodegree of Udacity
